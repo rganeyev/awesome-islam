@@ -7,7 +7,7 @@ A curated collection of useful apps and websites for Muslim users. Contributions
 ## 📖 Quran Learning
 
 - [Quran.com](https://www.quran.com/) - Interactive Quran with translations and recitations
-  - [[Web](<(https://www.quran.com/)>)] [[iOS app](https://apps.apple.com/us/app/quran-by-quran-com-%D9%82%D8%B1%D8%A2%D9%86/id1118663303)] [[Android](https://play.google.com/store/apps/details?id=com.quran.labs.androidquran&pli=1)]
+  - [[Web](https://www.quran.com/)] [[iOS app](https://apps.apple.com/us/app/quran-by-quran-com-%D9%82%D8%B1%D8%A2%D9%86/id1118663303)] [[Android](https://play.google.com/store/apps/details?id=com.quran.labs.androidquran&pli=1)]
 - [IslamicFinder - Quran](https://www.islamicfinder.org/quran/) - Quran with multiple translations
 
 ## 🕌 Muslim Habits & Lifestyle
@@ -16,7 +16,7 @@ A curated collection of useful apps and websites for Muslim users. Contributions
   - [[Web](https://www.muslimpro.com/)] [[iOS](https://apps.apple.com/us/app/muslim-pro-prayer-times/id388389451)] [[Android](https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro&hl=)]
 - [IslamicFinder.org](https://www.islamicfinder.org/) - Prayer times, Qibla direction, Islamic calendar
 
-### Study and learn
+### 📚 Study and learn
 
 - [Understand Quran Academy](https://www.understandquran.com/) - Learn Quranic Arabic
 - [SeekersHub](https://seekersguidance.org/) - Islamic learning and guidance
@@ -56,8 +56,9 @@ A curated collection of useful apps and websites for Muslim users. Contributions
 ## 👨‍💻 Developers Resources
 
 - [Quran.com](https://github.com/quran) - Quran.com's open-source repositories
+- [Awesome Muslims list](https://github.com/choubari/Awesome-Muslims) - List of open-source tools, mobile & Desktop Apps & API for muslims
 
-### Libraries & Frameworks
+### 🧩 Libraries & Frameworks
 
 - [hijri-converter](https://pypi.org/project/hijridate/) - Python Hijri calendar converter
 - [Adhan](https://www.npmjs.com/package/adhan) - High precision Islamic prayer time library
