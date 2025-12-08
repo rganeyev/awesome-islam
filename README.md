@@ -12,15 +12,15 @@ A curated collection of useful apps and websites for Muslim users. Contributions
 
 ## 🕌 Muslim Habits & Lifestyle
 
-- Muslim Pro - Quran, Prayer times, Qibla, and many more
-  - [[Web](https://www.muslimpro.com/)] [[iOS](https://apps.apple.com/us/app/muslim-pro-prayer-times/id388389451)] [[Android](https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro&hl=)]
+- Muslim Pro - Quran, Prayer times, Qibla
+  - WARNING! Muslim Pro sells user data to 3rd-party companies, including US military ([source](https://www.vice.com/en/article/us-military-location-data-xmode-locate-x/))
 - [IslamicFinder.org](https://www.islamicfinder.org/) - Prayer times, Qibla direction, Islamic calendar
 
 ### 📚 Study and learn
 
 - [Understand Quran Academy](https://www.understandquran.com/) - Learn Quranic Arabic
 - [SeekersHub](https://seekersguidance.org/) - Islamic learning and guidance
-- [Al-Islam.org](https://www.al-islam.org/) - Islamic encyclopedia and resources
+- [Al-Islam.org](https://www.al-islam.org/) - Shia encyclopedia and resources
 - [AskImam](https://askimam.org/) - Questions and Answers on islamic thematics
 
 ---
