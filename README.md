@@ -9,6 +9,8 @@ A curated collection of useful apps and websites for Muslim users. Contributions
 - [Quran.com](https://www.quran.com/) - Interactive Quran with translations and recitations
   - [[Web](https://www.quran.com/)] [[iOS app](https://apps.apple.com/us/app/quran-by-quran-com-%D9%82%D8%B1%D8%A2%D9%86/id1118663303)] [[Android](https://play.google.com/store/apps/details?id=com.quran.labs.androidquran&pli=1)]
 - [IslamicFinder - Quran](https://www.islamicfinder.org/quran/) - Quran with multiple translations
+- [Ayah Reels](https://apps.apple.com/app/id6794389870) - Turn any verse range into a shareable 9:16 recitation reel; 37 reciters, verse-synced text, scenery and typography, exported as MP4
+  - [[iOS app](https://apps.apple.com/app/id6794389870)] [[Android](https://play.google.com/store/apps/details?id=com.ayahreel.app)]
 
 ## 🕌 Muslim Habits & Lifestyle
 
