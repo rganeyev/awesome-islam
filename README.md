@@ -62,6 +62,7 @@ A curated collection of useful apps and websites for Muslim users. Contributions
 
 - [hijri-converter](https://pypi.org/project/hijridate/) - Python Hijri calendar converter
 - [Adhan](https://www.npmjs.com/package/adhan) - High precision Islamic prayer time library
+- [Muslim Prayer Reminder MCP](https://github.com/tareq7/muslim-prayer-mcp) - Open-source prayer-times tool for AI assistants, with configurable calculation authorities and Asr methods.
 - [react-hijri](https://www.npmjs.com/package/react-hijri) - React Hijri Datepicker calendar component
 
 ---
